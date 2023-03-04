@@ -1,23 +1,22 @@
 ![MasterHead](https://wallpapercave.com/wp/wp4923991.png)
 
 <h1 align="center">Hi 👋, I'm Emmanuel Ayeniko</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Frontend developer who loves working with the latest technologies to bring web designs to life.</h3>
 <img align="right" alt="Coding" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDUwOWU4NTAwNjE5M2JlZDI3NjNjM2M0ZjZhZTEyMGU4MzE3NGNmNCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=niko-dev06&label=Profile%20views&color=0e75b6&style=flat" alt="niko-dev06" /> </p>
 
-- 🌱 I’m currently learning **React, Typescript(Javascript Technologies in general)**
+- 🌱 I’m currently learning **React, Typescript(Javascript Technologies in general) and New Technologies**
 
-- 👯 I’m looking to collaborate on **frontend projects**
+- 👯 I’m looking to collaborate on **Frontend projects**
 
 - 📫 How to reach me **ayenikoemmnauel06@gmail.com**
 
-- ⚡ Fun fact **I love football**
+- ⚡ Fun fact **I love football and learning new things.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/@nikodev06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@nikodev06" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/emmanuel ayeniko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emmanuel ayeniko" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/emmanuel-ayeniko-72a758258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emmanuel ayeniko" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
