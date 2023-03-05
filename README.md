@@ -1,4 +1,4 @@
-![MasterHead](https://wallpapercave.com/wp/wp4923991.png)
+<!-- ![MasterHead](https://wallpapercave.com/wp/wp4923991.png) -->
 
 <h1 align="center">Hi 👋, I'm Emmanuel Ayeniko</h1>
 <h3 align="center">A passionate Frontend developer who loves working with the latest technologies to bring web designs to life.</h3>
