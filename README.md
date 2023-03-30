@@ -5,7 +5,9 @@
 <img align="right" alt="Coding" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDUwOWU4NTAwNjE5M2JlZDI3NjNjM2M0ZjZhZTEyMGU4MzE3NGNmNCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
-- 🌱 I’m currently learning **React, Typescript(Javascript Technologies in general) and New Technologies**
+- 🌱 I’m currently working with **React, Javascript(ES6+), NextJS, Typescript**
+
+- 🌱 I’m currently learning **New Technologies**
 
 - 👯 I’m looking to collaborate on **Frontend projects**
 
