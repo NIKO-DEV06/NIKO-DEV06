@@ -29,5 +29,5 @@
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--817tTc5V--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g02cajxgnuo3mu90f13p.png" alt="framer-motion" width="40" height="40"/> </a>
 </p>
 
-![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NIKO-DEV06&theme=dark)
+<!-- ![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NIKO-DEV06&theme=dark) -->
 
