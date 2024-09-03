@@ -1,15 +1,13 @@
 <!-- ![MasterHead](https://wallpapercave.com/wp/wp4923991.png) -->
 
 <h1 align="center">Hi 👋, I'm Emmanuel Ayeniko</h1>
-<h3 align="center">A passionate Frontend developer who loves working with the latest technologies to bring web designs to life.</h3>
+<h3 align="center">A passionate Fullstack developer who loves working with the latest technologies to craft amazing digital products.</h3>
 <img align="right" alt="Coding" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDUwOWU4NTAwNjE5M2JlZDI3NjNjM2M0ZjZhZTEyMGU4MzE3NGNmNCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
-- 🌱 I’m currently working with **React, Javascript(ES6+), NextJS, Typescript**
+- 🌱 I’m currently working with **React, Javascript(ES6+), NextJS, Typescript, NestJS, ExpressJS**
 
-- 🌱 I’m currently learning **New Technologies**
-
-- 👯 I’m looking to collaborate on **Frontend projects**
+- 👯 I’m looking to collaborate on **Frontend, Backend & Fullstack projects**
 
 - 📫 How to reach me **ayenikoemmnauel06@gmail.com**
 
